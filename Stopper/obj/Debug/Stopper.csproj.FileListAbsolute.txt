@@ -1,0 +1,8 @@
+C:\Users\hamster\source\repos\Stopper\Stopper\bin\Debug\Stopper.exe.config
+C:\Users\hamster\source\repos\Stopper\Stopper\bin\Debug\Stopper.exe
+C:\Users\hamster\source\repos\Stopper\Stopper\bin\Debug\Stopper.pdb
+C:\Users\hamster\source\repos\Stopper\Stopper\obj\Debug\Stopper.csproj.AssemblyReference.cache
+C:\Users\hamster\source\repos\Stopper\Stopper\obj\Debug\Stopper.csproj.SuggestedBindingRedirects.cache
+C:\Users\hamster\source\repos\Stopper\Stopper\obj\Debug\Stopper.csproj.CoreCompileInputs.cache
+C:\Users\hamster\source\repos\Stopper\Stopper\obj\Debug\Stopper.exe
+C:\Users\hamster\source\repos\Stopper\Stopper\obj\Debug\Stopper.pdb
